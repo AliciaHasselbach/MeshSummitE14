@@ -3,9 +3,9 @@
 
 ## Kurzfassung
 
-SmartPilot ist ein StartUp, dass seines Kunden Planungssicherheit verschafft!
+SmartPilot ist ein StartUp, das seines Kunden Planungssicherheit verschafft!
 
-Ein mittels historischen Wetter- und Verkehrsdaten trainiertes Neuronales Netz ermöglicht es, Verkehrsaufkommen zukünftig mit einer höhreren Genauigkeit vorherzusagen. Damit grenzt sich das Produkt SmartPilot von anderen Anbietern ab, die ausschließlich Routenplanung auf Grundlage von Echtzeitdaten durchführen.
+Ein mittels historischen Wetter- und Verkehrsdaten trainiertes Neuronales Netz ermöglicht es, das Verkehrsaufkommen zukünftig mit einer höhreren Genauigkeit vorherzusagen. Damit grenzt sich das Produkt SmartPilot von anderen Anbietern ab, die ausschließlich Routenplanungen auf Grundlage von Echtzeitdaten durchführen.
 
 ## Programmanwendung
 ```Test``` Test
